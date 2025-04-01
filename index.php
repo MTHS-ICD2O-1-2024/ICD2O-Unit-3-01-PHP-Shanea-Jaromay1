@@ -41,16 +41,6 @@
           <!-- input pattern attribute -->
           <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" name="a-base-of-trapezoid" />
           <!-- mdl-textfield__label -->
-          <label class="mdl-textfield__label" for="a-base-of-trapezoid">
-            Hours worked (hours)</label>
-          <!-- class "mdl-textfield__error" -->
-          <span class="mdl-textfield__error">Input is not a number.</span>
-        </div>
-        <br />
-        <div class="mdl-textfield mdl-js-textfield">
-          <!-- input pattern attribute -->
-          <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" name="b-base-of-trapezoid" />
-          <!-- mdl-textfield__label -->
           <label class="mdl-textfield__label" for="b-base-of-trapezoid">a base here.. (mm)</label>
           <!-- class "mdl-textfield__error" -->
           <span class="mdl-textfield__error">Input is not a number.</span>
