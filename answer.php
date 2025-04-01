@@ -29,7 +29,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/income_tax.jpg" alt="income tax image" width="300" />
+        <img src="./images/trapezoid (2).svg" alt="area of trapezoid" width="300" />
       </div>
       <div class="page-content-php">
         <div id="area-info">
